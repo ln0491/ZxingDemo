@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\work\\ZxingDemo\\zxing\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "D:\\work\\ZxingDemo\\zxing\\src\\main\\res\\layout-land\\encode.xml"
+    },
+    {
+        "merged": "D:\\work\\ZxingDemo\\zxing\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "D:\\work\\ZxingDemo\\zxing\\src\\main\\res\\layout-land\\share.xml"
+    }
+]

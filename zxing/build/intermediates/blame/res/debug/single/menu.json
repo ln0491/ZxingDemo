@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\work\\ZxingDemo\\zxing\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "D:\\work\\ZxingDemo\\zxing\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "D:\\work\\ZxingDemo\\zxing\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "D:\\work\\ZxingDemo\\zxing\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "D:\\work\\ZxingDemo\\zxing\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "D:\\work\\ZxingDemo\\zxing\\src\\main\\res\\menu\\capture.xml"
+    }
+]
